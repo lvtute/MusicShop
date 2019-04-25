@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author NguyenDang
- */
 public class Item {
  
     private Product product;

@@ -27,10 +27,6 @@ import javax.servlet.http.Part;
 @WebServlet("/images")
 @MultipartConfig(maxFileSize = 16177215)
 
-/**
- *
- * @author Administrator
- */
 public class InsertProductServletx extends HttpServlet {
     // database connection settings
     private String dbURL = "jdbc:mysql://localhost:3306/musicshop";

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : footer
-    Created on : 03-Mar-2017, 09:44:57
-    Author     : NguyenDang
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -14,8 +10,8 @@
     <body>
 
         <div id="footer">
-            © Copyright 2017 HutechAcousticShop, Giữ toàn quyền nội dung |  
-            Thiết kế bởi<a href="http://hutechacousticshop.com/" rel="nofollow" target="_blank"> HutechAcousticShop</a><br>
+            © Copyright 2017 demoAcousticShop, Giữ toàn quyền nội dung |  
+            Thiết kế bởi<a href="http://demoacousticshop.com/" rel="nofollow" target="_blank"> demoAcousticShop</a><br>
         </div>
 
     </body>

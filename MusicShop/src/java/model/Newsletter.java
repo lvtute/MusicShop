@@ -7,10 +7,6 @@ package model;
 
 import java.sql.Timestamp;
 
-/**
- *
- * @author NguyenDang
- */
 public class Newsletter {
     private long newsletterID;
     private String newsletterName;

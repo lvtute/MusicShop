@@ -1,8 +1,4 @@
-<%-- 
-    Document   : header
-    Created on : 28-Feb-2017, 22:23:06
-    Author     : NguyenDang
---%>
+
 
 <%@page import="java.text.DecimalFormat"%>
 <%@page import="get.BrandGet"%>
@@ -44,7 +40,7 @@
 				<div class="header-left animated wow fadeInLeft" data-wow-delay=".5s">
 					<ul>
 					<li><i class="glyphicon glyphicon-headphones"></i><a href="#">Hỗ trợ 24/7</a></li>
-						<li><i class="glyphicon glyphicon-envelope" ></i><a href="mailto:contact@hutechguitarshop.com">@hutechguitarshop.com</a></li>
+						<li><i class="glyphicon glyphicon-envelope" ></i><a href="mailto:contact@demoguitarshop.com">@demoguitarshop.com</a></li>
 						<li><i class="glyphicon glyphicon-earphone" ></i>+8493 552 6224</li>
 						
 					</ul>
@@ -100,7 +96,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						 <div class="navbar-brand logo-nav-left ">
-							<h1 class="animated wow pulse" data-wow-delay=".5s"><a href="index.jsp">HUTECH<span> ACOUSTIC SHOP</span></a></h1>
+							<h1 class="animated wow pulse" data-wow-delay=".5s"><a href="index.jsp">demo<span> ACOUSTIC SHOP</span></a></h1>
 						</div>
 
 					</div> 
@@ -114,7 +110,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<h4>HUTECH MUSIC SHOP</h4>
+												<h4>demo MUSIC SHOP</h4>
 												
                                                                                                 <%
                                                                                                     for (Category c : categoryget.getListCategory()) {

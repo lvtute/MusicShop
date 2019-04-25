@@ -1,15 +1,11 @@
-<%-- 
-    Document   : login
-    Created on : 28-Feb-2017, 22:51:25
-    Author     : NguyenDang
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>ĐĂNG NHẬP - HUTECH ACOUSTIC SHOP</title>
+        <title>ĐĂNG NHẬP - demo ACOUSTIC SHOP</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Classic Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 

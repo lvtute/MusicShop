@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author NguyenDang
- */
 public class Category {
  
     private long categoryID;

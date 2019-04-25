@@ -22,10 +22,6 @@ import model.Newsletter;
 import model.Product;
 import model.Review;
 
-/**
- *
- * @author NguyenDang
- */
 public class NewsletterServlet extends HttpServlet {
 NewsletterGet newsletterGet = new NewsletterGet();
  @Override

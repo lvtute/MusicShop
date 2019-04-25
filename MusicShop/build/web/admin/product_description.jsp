@@ -1,8 +1,4 @@
-<%-- 
-    Document   : product_description
-    Created on : 20-Mar-2017, 10:05:37
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.UserAdmin"%>
 <%@page import="model.Product"%>

@@ -17,10 +17,6 @@ import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 
-/**
- *
- * @author TUNGDUONG
- */
 public class UploadProductServlet extends HttpServlet {
 
     // location to store file uploaded

@@ -13,10 +13,6 @@ import java.util.logging.Logger;
 import model.Category;
 import model.Value;
 
-/**
- *
- * @author NguyenDang
- */
 public class ChartGet {
     public ArrayList<Value> getAll() {
         try {

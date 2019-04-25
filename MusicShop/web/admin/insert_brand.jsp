@@ -1,8 +1,3 @@
-<%-- 
-    Document   : insert_brand
-    Created on : 24-Mar-2017, 09:33:05
-    Author     : NguyenDang
---%>
 
 <%@page import="model.UserAdmin"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

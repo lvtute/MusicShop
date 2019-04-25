@@ -7,10 +7,6 @@ package model;
 
 import java.util.Date;
 
-/**
- *
- * @author NguyenDang
- */
 public class Review {
     private long reviewID;
     private long productID;

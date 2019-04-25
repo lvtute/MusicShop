@@ -19,11 +19,6 @@ import javax.servlet.http.HttpSession;
 import model.UserAdmin;
 
 
-/**
- *
- * @author NguyenDang
- */
-
 public class AdminUserServlet extends HttpServlet {
 
   UserAdminGet userAdminGet = new UserAdminGet();

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : content
-    Created on : 28-Feb-2017, 22:46:57
-    Author     : NguyenDang
---%>
+
 
 <%@page import="java.text.DecimalFormat"%>
 <%@page import="model.Product"%>

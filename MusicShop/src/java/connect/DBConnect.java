@@ -8,10 +8,6 @@ package connect;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-/**
- *
- * @author NguyenDang
- */
 public class DBConnect {
     
      public static Connection getConnecttion() {

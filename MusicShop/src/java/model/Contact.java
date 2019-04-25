@@ -7,10 +7,6 @@ package model;
 
 import java.sql.Timestamp;
 
-/**
- *
- * @author NguyenDang
- */
 public class Contact {
     private long contactID;
     private String contactName;

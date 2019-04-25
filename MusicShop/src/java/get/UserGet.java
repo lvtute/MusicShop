@@ -15,10 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import model.User;
 
-/**
- *
- * @author NguyenDang
- */
+
 public class UserGet {
     public ArrayList<User> getListUser() throws SQLException {
         Connection connection = DBConnect.getConnecttion();

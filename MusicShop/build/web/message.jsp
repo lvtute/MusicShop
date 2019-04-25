@@ -1,8 +1,4 @@
-<%-- 
-    Document   : message
-    Created on : 14-Mar-2017, 23:17:54
-    Author     : NguyenDang
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

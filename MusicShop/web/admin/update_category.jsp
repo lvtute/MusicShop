@@ -1,8 +1,4 @@
-<%-- 
-    Document   : update_category
-    Created on : 14-Mar-2017, 07:35:21
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.Category"%>
 <%@page import="get.CategoryGet"%>

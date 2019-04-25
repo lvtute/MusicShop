@@ -1,8 +1,4 @@
-<%-- 
-    Document   : update_brand
-    Created on : 24-Mar-2017, 09:35:29
-    Author     : NguyenDang
---%>
+
 
 <%@page import="get.BrandGet"%>
 <%@page import="model.Brand"%>

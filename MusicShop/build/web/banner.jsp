@@ -1,8 +1,4 @@
-<%-- 
-    Document   : banner
-    Created on : 28-Feb-2017, 22:43:22
-    Author     : NguyenDang
---%>
+
 
 <%@page import="java.text.DecimalFormat"%>
 <%@page import="java.text.DecimalFormat"%>

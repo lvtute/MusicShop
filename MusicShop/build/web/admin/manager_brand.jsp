@@ -1,8 +1,4 @@
-<%-- 
-    Document   : manager_brand
-    Created on : 24-Mar-2017, 09:13:16
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.UserAdmin"%>
 <%@page import="model.Brand"%>

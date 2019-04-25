@@ -14,10 +14,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author TUNGDUONG
- */
 public class ChartServlet extends HttpServlet {
     
     ChartGet chartGet = new ChartGet();

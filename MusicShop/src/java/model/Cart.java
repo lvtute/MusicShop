@@ -8,10 +8,6 @@ package model;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- *
- * @author NguyenDang
- */
 public class Cart {
  
     private HashMap<Long, Item> cartItems;

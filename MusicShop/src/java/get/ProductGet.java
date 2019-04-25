@@ -16,10 +16,6 @@ import java.util.logging.Logger;
 import model.Category;
 import model.Product;
 
-/**
- *
- * @author NguyenDang
- */
 public class ProductGet {
     
    public ArrayList<Product> getListProductByNav(long categoryID, int firstResult, int maxResult) throws SQLException{

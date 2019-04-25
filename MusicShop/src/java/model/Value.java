@@ -6,10 +6,6 @@
 
 package model;
 
-/**
- *
- * @author NguyenDang
- */
 public class Value {
     private String name;
     private int value;

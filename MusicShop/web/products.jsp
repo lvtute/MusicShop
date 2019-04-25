@@ -1,8 +1,4 @@
-<%-- 
-    Document   : products
-    Created on : 01-Mar-2017, 11:15:04
-    Author     : NguyenDang
---%>
+
 
 <%@page import="java.text.DecimalFormat"%>
 <%@page import="get.BrandGet"%>
@@ -16,7 +12,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>SẢN PHẨM - HUTECH ACOUSTIC SHOP</title>
+        <title>SẢN PHẨM - demo ACOUSTIC SHOP</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Classic Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 

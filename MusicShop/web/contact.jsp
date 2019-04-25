@@ -1,15 +1,10 @@
-<%-- 
-    Document   : thankyou
-    Created on : 02-Mar-2017, 22:35:11
-    Author     : NguyenDang
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>LIÊN HỆ CHÚNG TÔI - HUTECH ACOUSTIC SHOP</title>
+        <title>LIÊN HỆ CHÚNG TÔI - demo ACOUSTIC SHOP</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Classic Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -122,7 +117,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 						<div class="contact-grid3">
 							<h4>Email</h4>
-							<p><a href="contactto:info@example.com">contact@hutechmusicshop.com</a><span><a href="contactto:info@example.com">lienhe@hutechmusicshop.com</a></span></p>
+							<p><a href="contactto:info@example.com">contact@demomusicshop.com</a><span><a href="contactto:info@example.com">lienhe@demomusicshop.com</a></span></p>
 						</div>
 					</div>
 				</div>

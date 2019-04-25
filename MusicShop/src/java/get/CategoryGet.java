@@ -15,10 +15,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import model.Category;
 
-/**
- *
- * @author NguyenDang
- */
 public class CategoryGet {
     public ArrayList<Category> getListCategory() throws SQLException {
         Connection connection = DBConnect.getConnecttion();

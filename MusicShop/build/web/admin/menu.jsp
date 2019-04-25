@@ -1,8 +1,4 @@
-<%-- 
-    Document   : menu
-    Created on : 03-Mar-2017, 10:06:27
-    Author     : NguyenDang
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

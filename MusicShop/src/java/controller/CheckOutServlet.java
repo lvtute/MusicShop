@@ -22,10 +22,6 @@ import model.Cart;
 import model.Item;
 import model.User;
 
-/**
- *
- * @author TUNGDUONG
- */
 public class CheckOutServlet extends HttpServlet {
 
     private final BillGet billGet = new BillGet();

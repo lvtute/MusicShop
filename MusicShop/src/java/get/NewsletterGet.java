@@ -16,10 +16,6 @@ import java.util.logging.Logger;
 import model.Contact;
 import model.Newsletter;
 
-/**
- *
- * @author NguyenDang
- */
 public class NewsletterGet {
     
     public ArrayList<Newsletter> getListNewsletter() throws SQLException {

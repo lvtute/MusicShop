@@ -18,10 +18,6 @@ import javax.servlet.http.HttpServletResponse;
 import model.Brand;
 import model.Category;
 
-/**
- *
- * @author NguyenDang
- */
 public class ManagerBrandServlet extends HttpServlet {
 
     BrandGet brandDAO = new BrandGet();

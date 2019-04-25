@@ -18,10 +18,6 @@ import model.Category;
 import model.Product;
 import model.Review;
 
-/**
- *
- * @author NguyenDang
- */
 public class ReviewGet {
     public ArrayList<Review> getListReviewByProduct(long product_id) throws SQLException {
         Connection connection = DBConnect.getConnecttion();

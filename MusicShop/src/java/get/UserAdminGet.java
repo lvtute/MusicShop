@@ -14,10 +14,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import model.UserAdmin;
 
-/**
- *
- * @author NguyenDang
- */
 public class UserAdminGet {
     public boolean insertUserAdmin(UserAdmin u) throws SQLException{
         Connection connection = DBConnect.getConnecttion();

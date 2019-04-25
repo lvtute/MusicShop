@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author NguyenDang
- */
 public class Product {
     private long productID;
     private long categoryID;

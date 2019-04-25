@@ -1,8 +1,4 @@
-<%-- 
-    Document   : register
-    Created on : 01-Mar-2017, 23:13:32
-    Author     : NguyenDang
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -170,7 +166,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						 <label class="checkbox1"><input type="checkbox" name="checkbox" ><i> </i>Tôi đồng ý với các điều khoản.</label>
 	<fieldset disabled>
         <div class="form-group">
-          <label for="disabledTextInput">Điều khoản tại website HUTECH ACOUSTIC SHOP</label>
+          <label for="disabledTextInput">Điều khoản tại website demo ACOUSTIC SHOP</label>
           <textarea type="text" id="disabledTextInput" class="form-control" placeholder="">* Mua hàng tại HAS không được đổi trả. &#10;* Bạn hãy chắc địa chỉ bạn gửi là đúng. &#10;* Sau 3 ngày không chuyển khoản, đơn hàng sẽ xóa.&#10;* Phải biết rằng admin cute phô mai que :3</textarea>
           </fieldset>
           

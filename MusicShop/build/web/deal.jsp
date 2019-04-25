@@ -1,8 +1,4 @@
-<%-- 
-    Document   : deal
-    Created on : 02-Mar-2017, 21:08:14
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -10,7 +6,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>THANH TOÁN - HUTECH ACOUSTIC SHOP</title>
+        <title>THANH TOÁN - demo ACOUSTIC SHOP</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Classic Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 

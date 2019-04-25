@@ -1,8 +1,4 @@
-<%-- 
-    Document   : mangager_chart
-    Created on : 13-Mar-2017, 19:49:47
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.UserAdmin"%>
 <%@page import="model.Category"%>

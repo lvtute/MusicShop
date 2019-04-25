@@ -1,8 +1,4 @@
-<%-- 
-    Document   : manage_product
-    Created on : 03-Mar-2017, 09:56:55
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.UserAdmin"%>
 <%@page import="java.text.DecimalFormat"%>

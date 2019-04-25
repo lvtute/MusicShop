@@ -1,8 +1,4 @@
-<%-- 
-    Document   : thankyou
-    Created on : 02-Mar-2017, 22:35:11
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.BillDetail"%>
 <%@page import="get.BillDetailGet"%>
@@ -18,7 +14,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>QUẢN LÝ TÀI KHOẢN - HUTECH ACOUSTIC SHOP</title>
+        <title>QUẢN LÝ TÀI KHOẢN - demo ACOUSTIC SHOP</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Classic Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 

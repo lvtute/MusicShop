@@ -1,8 +1,4 @@
-<%-- 
-    Document   : login
-    Created on : 03-Mar-2017, 09:53:03
-    Author     : NguyenDang
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>

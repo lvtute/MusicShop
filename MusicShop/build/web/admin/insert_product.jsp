@@ -1,8 +1,4 @@
-<%-- 
-    Document   : insert_product
-    Created on : 03-Mar-2017, 09:53:54
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.UserAdmin"%>
 <%@page import="get.BrandGet"%>

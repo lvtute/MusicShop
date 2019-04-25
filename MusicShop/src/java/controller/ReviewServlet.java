@@ -17,10 +17,6 @@ import javax.servlet.http.HttpServletResponse;
 import model.Product;
 import model.Review;
 
-/**
- *
- * @author NguyenDang
- */
 public class ReviewServlet extends HttpServlet {
 ReviewGet reviewGet = new ReviewGet();
  @Override

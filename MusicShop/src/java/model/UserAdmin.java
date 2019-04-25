@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author NguyenDang
- */
 public class UserAdmin {
     private long useradminID;
     private String useradminEmail;

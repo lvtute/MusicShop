@@ -20,10 +20,6 @@ import model.Contact;
 import model.Product;
 import model.Review;
 
-/**
- *
- * @author NguyenDang
- */
 public class ContactServlet extends HttpServlet {
 ContactGet contactGet = new ContactGet();
  @Override

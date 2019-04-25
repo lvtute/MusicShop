@@ -18,10 +18,6 @@ import javax.servlet.http.HttpServletResponse;
 import model.Category;
 import model.Product;
 
-/**
- *
- * @author NguyenDang
- */
 public class ManagerProductServlet extends HttpServlet {
 
     ProductGet productGet = new ProductGet();

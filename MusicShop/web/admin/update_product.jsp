@@ -1,8 +1,4 @@
-<%-- 
-    Document   : update_product.jsp
-    Created on : 15-Mar-2017, 09:46:44
-    Author     : NguyenDang
---%>
+
 
 <%@page import="get.BrandGet"%>
 <%@page import="model.Brand"%>

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : insert_category
-    Created on : 03-Mar-2017, 09:53:44
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.UserAdmin"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

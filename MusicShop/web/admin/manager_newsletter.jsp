@@ -1,8 +1,4 @@
-<%-- 
-    Document   : manage_category
-    Created on : 03-Mar-2017, 09:56:25
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.Newsletter"%>
 <%@page import="get.NewsletterGet"%>

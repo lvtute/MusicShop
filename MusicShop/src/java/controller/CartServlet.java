@@ -17,10 +17,6 @@ import model.Cart;
 import model.Item;
 import model.Product;
 
-/**
- *
- * @author NguyenDang
- */
 public class CartServlet extends HttpServlet {
     
     private final ProductGet productGet = new ProductGet();

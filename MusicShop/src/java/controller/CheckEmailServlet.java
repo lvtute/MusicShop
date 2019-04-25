@@ -15,10 +15,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author NguyenDang
- */
 public class CheckEmailServlet extends HttpServlet {
 
         UserGet userGet = new UserGet();

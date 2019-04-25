@@ -1,8 +1,4 @@
-<%-- 
-    Document   : thankyou
-    Created on : 02-Mar-2017, 22:35:11
-    Author     : NguyenDang
---%>
+
 
 <%@page import="get.ProductGet"%>
 <%@page import="model.Product"%>
@@ -12,7 +8,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>GUITAR SHOP - HUTECH ACOUSTIC SHOP</title>
+        <title>GUITAR SHOP - demo ACOUSTIC SHOP</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Classic Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -64,8 +60,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </div>
          <div class="login">
 		<div class="container">
-                    <h4 align="justify"> Hutech Acoustic Shop chuyên bán đàn piano cơ, đàn piano điện chính hãng, ngoại nhập. Cam kết giá rẻ và có bảo hành đầy đủ.
-Hutech Acoustic Shop là một trong những công ty chuyên kinh doanh nhạc cụ uy tín hàng đầu tại Việt Nam, với trên 20 năm kinh nghiệm chúng tôi đem đến Quý khách hàng những dòng đàn piano cơ (piano acoustic) tốt nhất với những thương hiệu khá nổi tiếng trên thế giới như: đàn piano Steinway & Son, Shigeru Kawai, Boston, Essex, Kawai,... 
+                    <h4 align="justify"> demo Acoustic Shop chuyên bán đàn piano cơ, đàn piano điện chính hãng, ngoại nhập. Cam kết giá rẻ và có bảo hành đầy đủ.
+demo Acoustic Shop là một trong những công ty chuyên kinh doanh nhạc cụ uy tín hàng đầu tại Việt Nam, với trên 20 năm kinh nghiệm chúng tôi đem đến Quý khách hàng những dòng đàn piano cơ (piano acoustic) tốt nhất với những thương hiệu khá nổi tiếng trên thế giới như: đàn piano Steinway & Son, Shigeru Kawai, Boston, Essex, Kawai,... 
 Bên cạnh dòng đàn piano cơ, thì chúng tôi còn cung cấp dòng đàn piano điện (Digital piano) với những thương hiệu nổi tiếng như: đàn piano điện Casio, Roland và đặc biệt luôn có những model đàn piano điện giá rẻ dành cho các bạn học sinh và người mới học đàn.</h4>
          <div class="page-header">
         <h3>PIANO</h3>

@@ -17,10 +17,6 @@ import model.Contact;
 import model.Review;
 import model.User;
 
-/**
- *
- * @author NguyenDang
- */
 public class ContactGet {
      public ArrayList<Contact> getListContact() throws SQLException {
         Connection connection = DBConnect.getConnecttion();

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : trangchu
-    Created on : 13-Mar-2017, 21:21:27
-    Author     : NguyenDang
---%>
+
 
 <%@page import="model.UserAdmin"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -11,7 +7,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>TRANG QUẢN TRỊ HUTECHACOUSTIC SHOP</title>
+        <title>TRANG QUẢN TRỊ demoACOUSTIC SHOP</title>
 
         <c:set var="root" value="${pageContext.request.contextPath}"/>
         <link href="${root}/css/mos-style.css" rel='stylesheet' type='text/css' />

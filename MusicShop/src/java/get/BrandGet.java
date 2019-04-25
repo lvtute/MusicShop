@@ -16,10 +16,6 @@ import java.util.logging.Logger;
 import model.Brand;
 import model.Category;
 
-/**
- *
- * @author NguyenDang
- */
 public class BrandGet {
     public ArrayList<Brand> getListBrand() throws SQLException {
         Connection connection = DBConnect.getConnecttion();
