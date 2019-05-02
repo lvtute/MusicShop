@@ -14,10 +14,8 @@
 </head>
 <body>
 
-    <div id="header">
-        <div class="inHeaderLogin"></div>
-    </div>
-
+    
+   
     <div id="loginForm">
         <div class="headLoginForm">
             Đăng nhập Admin
